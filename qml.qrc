@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/qml/main.qml</file>
+        <file>resource/qml/enum/Enum.qml</file>
+        <file>resource/qml/setup/Setup.qml</file>
+        <file>resource/picture/setup.png</file>
+        <file>resource/qml/home/Home.qml</file>
+        <file>resource/qml/cataract/Cataract.qml</file>
+        <file>resource/qml/cataract/lowlevelcourse/LLNavigasion.qml</file>
+        <file>resource/qml/cataract/lowlevelcourse/LLAntiTremble.qml</file>
+        <file>resource/qml/cataract/CataractLowLevelNav.qml</file>
+        <file>resource/qml/cataract/CataractLowLevelAntiTremble.qml</file>
+        <file>resource/picture/Next.PNG</file>
+        <file>resource/picture/Previous.PNG</file>
+        <file>resource/picture/NextEnter.PNG</file>
+        <file>resource/picture/PreviousEnter.PNG</file>
+        <file>resource/picture/midlevel/pihe2.png</file>
+        <file>resource/picture/midlevel/sinang2.png</file>
+        <file>resource/picture/lowlevel/dingwei2.png</file>
+        <file>resource/picture/lowlevel/kangzhenchan2.png</file>
+        <file>resource/picture/lowlevel/niezicaozuo2.png</file>
+        <file>resource/qml/cataract/CataractLowLevelTweezers.qml</file>
+        <file>resource/qml/cataract/lowlevelcourse/LLTweezers.qml</file>
+        <file>resource/qml/cataract/CataractMidLevelCapsulor.qml</file>
+        <file>resource/qml/cataract/middlelevelcourse/MLCapsulor.qml</file>
+        <file>resource/qml/cataract/CataractMidLevelChop.qml</file>
+        <file>resource/qml/cataract/middlelevelcourse/MLChop.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="resource/picture/setup.png">resource/picture/setup.png</file>
+        <file alias="resource/picture/Next.PNG">resource/picture/Next.PNG</file>
+        <file alias="resource/picture/Previous.PNG">resource/picture/Previous.PNG</file>
+        <file alias="resource/picture/NextEnter.PNG">resource/picture/NextEnter.PNG</file>
+        <file alias="resource/picture/PreviousEnter.PNG">resource/picture/PreviousEnter.PNG</file>
+        <file alias="resource/picture/midlevel/pihe2.png">resource/picture/midlevel/pihe2.png</file>
+        <file alias="resource/picture/midlevel/sinang2.png">resource/picture/midlevel/sinang2.png</file>
+        <file alias="resource/picture/lowlevel/dingwei2.png">resource/picture/lowlevel/dingwei2.png</file>
+        <file alias="resource/picture/lowlevel/kangzhenchan2.png">resource/picture/lowlevel/kangzhenchan2.png</file>
+        <file alias="resource/picture/lowlevel/niezicaozuo2.png">resource/picture/lowlevel/niezicaozuo2.png</file>
+    </qresource>
+</RCC>
